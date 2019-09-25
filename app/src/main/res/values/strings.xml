@@ -3,4 +3,7 @@
     <string name="decide">Decide</string>
     <string name="add_food">Add Food</string>
     <string name="pepper_soup">Pepper Soup</string>
+    <string name = "food_recipe">Food Recipe</string>
+    <string name = "food_menu">Food menu</string>
+
 </resources>
